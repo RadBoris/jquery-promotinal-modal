@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/radboris/jquery-promotional-modal-plugin.git"
+    "url": "git+https://github.com/radboris/jquery-promotional-modal.git"
   },
   "keywords": [
     "jquery-plugin",
@@ -18,9 +18,9 @@
   "author": "radboris",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/radboris/jquery-promotional-modal-plugin/issues"
+    "url": "https://github.com/radboris/jquery-promotional-modal/issues"
   },
-  "homepage": "https://github.com/radboris/jquery-promotional-modal-plugin#readme",
+  "homepage": "https://github.com/radboris/jquery-promotional-modal#readme",
   "dependencies": {
     "jquery": "^3.4.0",
     "jquery-modal": "^0.9.1",
